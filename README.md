@@ -1,3 +1,3 @@
 # restapi
-Testing Rest API using Rest Assured
+Testing Rest API using Rest Assure
 Inprogress
