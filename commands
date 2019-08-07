@@ -1,0 +1,7 @@
+git clone <FROM GITHUB URL or GIT URL like gitlab or bitbucket>
+
+git add <filename>
+
+git commit -am "Message"
+
+git push
